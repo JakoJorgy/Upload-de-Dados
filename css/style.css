@@ -1,0 +1,69 @@
+
+	body
+	{
+		background: #141414;
+	}
+
+	body,input,textarea,select
+	{
+		font-family: 'Arimo', sans-serif;
+		font-size: 11pt;
+		line-height: 1.75em;
+		color: #4c4c4c;
+	}
+
+	header
+	{
+		margin-bottom: 1em;
+	}
+	
+	#header
+	{
+		position: relative;
+		background: #2a2f27 url(../images/banner.jpg) no-repeat;
+		background-size: cover;
+	}
+fieldset{
+	color: azure;
+}
+	.formf{
+		display: inline-block !important;
+		margin: 0 auto;
+		text-align: center;
+		margin-left: 5rem;
+	}
+	.imgg{
+		width: 250px;
+		height: 300px;
+		border-radius: 25px;
+	}
+		.imgor{
+			margin-left: 1rem;
+		}
+		.upload{
+			padding: 2rem 0;
+			width: 100%;
+			display: block;
+			margin: 0 auto;
+			border-radius: 10px;
+		}
+		.upload input{
+		margin: 0rem 2rem;
+		width: 40%;
+		border-radius: 10px;
+		display: block;
+		margin: 0 auto;
+		}
+		.upload textarea{
+			margin: 0rem 2rem;
+			width: 40%;
+			border-radius: 10px;
+			display: block;
+			margin: 0 auto;
+			}
+		.buttonform{
+			background-color: rgb(146, 74, 74);
+			color: #ffff;
+			font-size: 20px;
+
+		}
